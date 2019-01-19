@@ -1,4 +1,4 @@
-# multithreads_vs_multiprocesses
+# CS3510 : OS1
 performance comparison between multi-thread and multi-process program
 
 MultiProcess Program - Assgn2-ProcStat-MA17BTECH11003.cpp, 
